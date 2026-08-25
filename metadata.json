@@ -1,0 +1,7 @@
+{
+  "name": "DoggyBhai",
+  "description": "Premium Indian D2C dog accessories and pet essentials e-commerce platform offering handcrafted collars, durable leashes, anti-slip bowls, personalized pet profiles, and DoggyBhai Smart Care featuring live pet monitoring and AI-assisted tick detection screening.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
